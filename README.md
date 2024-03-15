@@ -1,3 +1,3 @@
 # Burger-Shop
-Burger Shop
-<h4> https://mahmoud2217.github.io/Burger-Shop/ </h4>
+<p> Simple Burger Shop Using HTML && CSS && JS</p>
+<h4> live Demo:https://mahmoud-kh-roshdy.github.io/Burger-Shop/</h4>
